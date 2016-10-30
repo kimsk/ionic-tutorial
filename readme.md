@@ -7,4 +7,5 @@ Follow the step-by-step instructions available here: http://ccoenraets.github.io
 Facebook login on Android emulator
 
 https://github.com/apache/cordova-plugin-inappbrowser
+
 `cordova plugin add cordova-plugin-inappbrowser`
